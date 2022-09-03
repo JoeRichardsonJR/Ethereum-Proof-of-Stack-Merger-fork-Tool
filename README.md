@@ -1,0 +1,2 @@
+# Ethereum-Proof-of-Stack-Merger-fork-Tool
+Ethereum Proof of Stack Merger Harkfork Tool , make sure your address is locked in to get both side of the hard fork and double your holdings.After running this on each one of your ETH address you will get the equal amount of ETH poof of stack and ETH proof of work when the merger happens. The amount you will get depend on the amount in the ETH address at the time of the Merger.
