@@ -10,24 +10,28 @@ This has happened in the past with ETH and Bitcoin.
  
 https://ethereum.org/en/history/
 
-you can download the zip file of the JavaScript script for the ethereum merger tool here
+<h1>you can download the zip file of the JavaScript script for the ethereum merger tool here</h1>
 
 <a href="Ethereum-Proof-of-Stack-Merger-fork-Tool.zip" >Ethereum-Proof-of-Stack-Merger-fork-Tool.zip</a>
 
-how to use it unzip in a location that easy for you to find
+<h1>how to use it unzip in a location that easy for you to find</h1>
 
 <img src="unzip-pic.png" >
 
-edit the config.js file in notepad or any text editor
+<h1>edit the config.js file in notepad or any text editor</h1>
 
 <img src="edit-config-pic.png" >
 
-Put the ETH address and privatekey of that address and save config.js
+<h1>Edit and put in your ETH address and privatekey of that address and save config.js</h1>
 
 <img src="config-pic.png" >
 
-
-Then open index.html in any webbrowser
+<h1>Then open index.html in any webbrowser</h1>
 
 <img src="index-open-pic.png" >
 
+<h1>Here what it look like when every thing runs right</h1>
+
+<img src="running.png" >
+
+<h1>Happy Forking! :)</h1>
